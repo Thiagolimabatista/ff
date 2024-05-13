@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Flexo-Black';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Flexo-Black'), url('./Flexo-Black.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Flexo-Regular';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Flexo-Regular'), url('./Flexo-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Flexo-Thin';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Flexo-Thin'), url('./Flexo-Thin.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Flexo-Medium';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Flexo-Medium'), url('./Flexo-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Flexo-Heavy';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Flexo-Heavy'), url('./Flexo-Heavy.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Flexo-Light';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Flexo-Light'), url('./Flexo-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Flexo-LightIt';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Flexo-LightIt'), url('./Flexo-LightIt.ttf') format('truetype');
+}
+
+ 
